@@ -1,7 +1,3 @@
-# 💫 About Me:
-Soy estudiante de segundo año de Técnico en Programación y Análisis de Sistemas, con experiencia en desarrollo utilizando C, Raylib, TypeScript, C# (.NET), Python, Node.js, PHP, HTML, CSS, JavaScript y bases de datos como Microsoft SQL Server, MySQL y PostgreSQL. Actualmente me encuentro aprendiendo Ruby y el patrón de arquitectura MVC.<br><br>Estoy trabajando en proyectos personales enfocados en automatización, optimización de sistemas y desarrollo backend.<br><br>Busco aprender más sobre buenas prácticas de desarrollo en Ruby, estructuras de proyectos escalables, y diseño orientado a patrones. Manejo entornos Linux con fluidez, utilizo Git para control de versiones, y tengo un interés particular por la optimización de sistemas operativos mediante debloating y ajustes de bajo nivel.<br><br>Puedo aportar conocimientos en programación estructurada, orientación a objetos, scripting, diseño web básico, manejo de bases de datos y optimización de entornos de desarrollo.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-morgado-868433357) 
 
